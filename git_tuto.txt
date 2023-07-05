@@ -11,3 +11,8 @@ git branch view all branches
 //Merging
 git checkout master (in which i will merge the other branch)
 git merge new-branch
+git commit -am "message" git add and commit with msg at the same time
+(in case of conflict we should correct file and commit it again)
+//Github REPO
+git checkout master
+git branch -M main to rename master branch to main
