@@ -1,0 +1,5 @@
+git init initilize repository
+git status branch informations
+git add <file> (git add . to add all files) stage files
+git rm --cached <file> to unstage
+git commit -m "first commit"
