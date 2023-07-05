@@ -7,3 +7,7 @@ git commit -m "first commit"
 git status => branch master
 git checkout -b new-branch create and switch to new branch
 git checkout <branch> switch to branch
+git branch view all branches
+//Merging
+git checkout master (in which i will merge the other branch)
+git merge new-branch
