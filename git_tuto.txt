@@ -5,4 +5,5 @@ git rm --cached <file> to unstage
 git commit -m "first commit"
 //Branches
 git status => branch master
-git checkout -b new-branch switch to new branch
+git checkout -b new-branch create and switch to new branch
+git checkout <branch> switch to branch
